@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Plaztigram</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+</resources>

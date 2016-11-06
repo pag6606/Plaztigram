@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Plaztigram</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">User name</string>
+</resources>
