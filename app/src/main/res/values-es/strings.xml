@@ -13,4 +13,8 @@
     <string name="hint_confirm_password">Confirmar password</string>
     <string name="text_button_join">Unete</string>
     <string name="toolbar_title_create_account">Crear cuenta</string>
+    <string name="username_card">Paul Alarcon</string>
+    <string name="firstword_card">Hace</string>
+    <string name="like_number">Me gusta</string>
+    <string name="time_card">"4 dias "</string>
 </resources>

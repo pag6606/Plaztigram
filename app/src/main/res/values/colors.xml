@@ -10,4 +10,5 @@
     <color name="colorDivider">#BDBDBD</color>
     <color name="editTextColorWhite">#FFFFFF</color>
     <color name="editTextColorBlack">#212121</color>
+    <color name="background_text_card">#53292929</color>
 </resources>
