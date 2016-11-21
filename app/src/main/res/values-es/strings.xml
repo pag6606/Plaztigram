@@ -17,4 +17,7 @@
     <string name="firstword_card">Hace</string>
     <string name="like_number">Me gusta</string>
     <string name="time_card">"4 dias "</string>
+    <string name="tab_search">Buscar</string>
+    <string name="tab_home">Inicio</string>
+    <string name="tab_profile">Perfil</string>
 </resources>
