@@ -22,4 +22,8 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titleImageDetail">Atardecer</string>
+    <string name="detailImagetText">Este es el texto de prueba del contenido que tiene esta imagen descrita  con todos las caracteristicas que esta
+    pudiera tener en un determinado momento para que no pueda desbordar la imagen el activity</string>
+    <string name="transitionname_picture">transitionnamepicture</string>
 </resources>

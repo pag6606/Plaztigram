@@ -20,4 +20,6 @@
     <string name="tab_search">Buscar</string>
     <string name="tab_home">Inicio</string>
     <string name="tab_profile">Perfil</string>
+    <string name="titleImageDetail">\"Atardecer\"</string>
+    <string name="detailImagetText">Este es el texto de prueba del contenido que tiene esta imagen descrita</string>
 </resources>

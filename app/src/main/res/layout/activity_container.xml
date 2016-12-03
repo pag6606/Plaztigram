@@ -12,6 +12,5 @@
         android:layout_height="match_parent"
         android:paddingBottom="@dimen/bottombar_height"
         ></FrameLayout>
-<include layout="@layout/bottombar"
-    android:id="@+id/include"></include>
+<include layout="@layout/bottombar"></include>
 </RelativeLayout>

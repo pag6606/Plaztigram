@@ -14,4 +14,10 @@
     <dimen name="timecard_marginleft_card">5sp</dimen>
     <dimen name="like_margintop_card">10dp</dimen>
     <dimen name="bottombar_height">70dp</dimen>
+    <dimen name="appbarlayout_heigth">256dp</dimen>
+    <dimen name="tetxsize_username_detail">25sp</dimen>
+    <dimen name="tetxsize_like_number">15sp</dimen>
+    <dimen name="space_text">7dp</dimen>
+    <dimen name="heigth_divider">1dp</dimen>
+    <dimen name="dimen_imagecircle">160dp</dimen>
 </resources>
